@@ -1,0 +1,5 @@
+a,b,c = input().split()
+a=int(a)
+b=int(b)
+c=int(c)
+print(2*a*b + 2*a*c + 2*b*c)
